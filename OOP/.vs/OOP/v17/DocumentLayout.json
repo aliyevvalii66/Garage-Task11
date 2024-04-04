@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|c:\\users\\admin\\source\\repos\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|c:\\users\\admin\\source\\repos\\oop\\oop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|solutionrelative:oop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|c:\\users\\admin\\source\\repos\\oop\\oop\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|solutionrelative:oop\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|c:\\users\\admin\\source\\repos\\oop\\oop\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D27EC2-93C3-480F-B995-6AE5E7F5C7B2}|OOP\\OOP.csproj|solutionrelative:oop\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\Db.cs",
+              "RelativeDocumentMoniker": "OOP\\Db.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\Db.cs",
+              "RelativeToolTip": "OOP\\Db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:58:22.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\Extension.cs",
+              "RelativeDocumentMoniker": "OOP\\Extension.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\Extension.cs",
+              "RelativeToolTip": "OOP\\Extension.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:34:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\User.cs",
+              "RelativeDocumentMoniker": "OOP\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\User.cs",
+              "RelativeToolTip": "OOP\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:31:26.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:12:06.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
